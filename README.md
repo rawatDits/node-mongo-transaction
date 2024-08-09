@@ -14,8 +14,6 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Clone the repo
    ```sh
    git clone https://github.com/rawatDits/node-mongo-transaction.git
@@ -53,8 +51,3 @@ To Start Dev Server:
 To Access API on:
 
 `http://localhost:3000`
-
-
-### Postman collection 
-NODE- REST.postman_collection.json
-Import the postmancollection .json file in postman and run the Apis for testing 
